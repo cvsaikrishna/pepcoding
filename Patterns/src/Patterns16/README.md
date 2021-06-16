@@ -11,6 +11,6 @@ A number n
 ## Constraints
 1 <= n <= 10
 ## Sample Input
-5
+4
 ## Sample Output
 ![image](https://user-images.githubusercontent.com/46378797/122227686-bd584780-ced4-11eb-86a0-48a708ff1221.png)
