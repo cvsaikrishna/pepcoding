@@ -13,6 +13,6 @@ A number n
 1 <= n <= 10
 Also, n is odd.
 ## Sample Input
-3
+5
 ## Sample Output
 ![image](https://user-images.githubusercontent.com/46378797/122230166-04473c80-ced7-11eb-87eb-12a59376ec8a.png)
